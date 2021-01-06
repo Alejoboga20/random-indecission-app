@@ -4,7 +4,6 @@ import AddOption from './components/AddOption';
 import OptionsList from './components/OptionsList';
 import Action from './components/Action';
 import OptionModal from './components/OptionModal';
-import './styles/App.css';
 
 const title = 'Randon Decissions';
 const subtitle = 'Put your life in hands of computers';
